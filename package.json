@@ -1,0 +1,22 @@
+{
+  "name": "tezos-baker-registry",
+  "version": "0.1.0",
+  "description": "Fetch Tezos baker registry from registry smart contract big map",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirneb/tezos-baker-registry.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sirneb/tezos-baker-registry/issues"
+  },
+  "homepage": "https://github.com/sirneb/tezos-baker-registry#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
